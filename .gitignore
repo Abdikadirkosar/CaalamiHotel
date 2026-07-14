@@ -1,0 +1,58 @@
+# User-specific files
+*.user
+*.userossc
+*.sln.docstates
+
+# Mono Class Library
+.mono/
+
+# Visual Studio 2015/2017/2019/2022 cache directory
+.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Ob]j/
+Log/
+Logs/
+
+# Visual Studio Product Archives
+*.cab
+*.gsp
+*.msi
+*.msix
+*.msixbundle
+*.msp
+*.msu
+
+# CMake build outputs
+/build/
+/out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+
+# SQL Server files
+*.mdf
+*.ldf
+*.sdf
+
+# Compiled resources
+*.res
+*.resx
+*.resources
